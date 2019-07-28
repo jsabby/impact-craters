@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+*.swo
+.DS_Store
+.ipynb_checkpoints
+html
