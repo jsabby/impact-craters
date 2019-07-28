@@ -1,5 +1,5 @@
 # impact-craters
-A visualization and analysis of impact craters on Earth
+A visualization and analysis of impact craters on Earth. More information is in the Jupyter Notebook and [the scipython blog article](https://scipython.com/blog/impact-craters-on-earth/).
 
 ![Meteor crater, AZ, USA](meteorcrater_aer_2007158.jpg)
 
